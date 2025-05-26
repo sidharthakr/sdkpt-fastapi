@@ -52,4 +52,3 @@ wcwidth==0.2.13
 websockets==15.0.1
 wrapt==1.17.2
 certifi
-uvicorn[standard]==0.29.0
